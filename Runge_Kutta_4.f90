@@ -70,3 +70,4 @@ subroutine func(z,f,n,t)
       call rk4(z,n,h,ndt,t0)
       
   end
+
